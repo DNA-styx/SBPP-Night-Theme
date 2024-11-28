@@ -1,3 +1,9 @@
+  <a href="https://github.com/DNA-styx/SBPP-Night-Theme/releases"><img alt="GitHub Release" src="https://img.shields.io/github/v/release/DNA-styx/SBPP-Night-Theme"></a>
+  <img src="https://img.shields.io/github/downloads/DNA-styx/SBPP-Night-Theme/total">
+  <a href="https://github.com/DNA-styx/SBPP-Night-Theme/issues"><img src="https://img.shields.io/github/issues/DNA-styx/SBPP-Night-Theme"></a>
+  <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/DNA-styx/SBPP-Night-Theme">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/DNA-styx/SBPP-Night-Theme">
+
 # SBPP-Night-Theme
 [SourceBans++ Theme] Night [Multiple Colour Options]
 <br>
