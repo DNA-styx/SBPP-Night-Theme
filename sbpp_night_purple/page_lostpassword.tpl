@@ -11,7 +11,7 @@
             <i><img src="./images/info.png" alt="Warning" /></i>
             <b>Information</b>
             <br />
-            Please check your email inbox (and spam) for a link which will help you reset your password.</i>
+            If your email is registered, you will receive a password reset link shortly. Please check your email inbox (and spam).
         </div>
 
         <h4>
@@ -20,7 +20,7 @@
 
         <div id="loginPasswordDiv">
             <label for="email">Your E-Mail Address:</label><br />
-            <input id="email" class="loginmedium" type="text" name="password" value="" />
+            <input id="email" class="loginmedium" type="text" name="email" value="" />
         </div>
 
         <div id="loginSubmit">
