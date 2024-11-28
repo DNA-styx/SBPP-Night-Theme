@@ -1,7 +1,6 @@
 	</div></div></div>
 	<div id="footer">
 		<div id="mainwrapper" style="text-align: center;">
-			<a href="https://nmng.uk/" target="_blank"><br/>
 			<div id="footqversion" style="line-height: 20px;"><a style="color: #ff0000" href="https://sbpp.github.io/" target="_blank">SourceBans++</a> {$version}{$git}</div>
 		    <span style="line-height: 20px;">Original <a href="https://github.com/DNA-styx/SBPP-Night-Theme" title="Theme Fluent for SourceBans++" target="_blank" rel="noopener">Theme</a> by <a href="https://nmng.uk/sbpp" target="_blank" style="color: #ff0000">tuberculosis</a></span><br />
 		</div>
