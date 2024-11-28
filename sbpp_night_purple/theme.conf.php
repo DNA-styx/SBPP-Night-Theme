@@ -26,13 +26,13 @@ Page: <https://forums.alliedmods.net/showthread.php?t=252533>
 define('theme_name', "SB++ Theme - Night - Purple Variant");
 
 // Set the author of this theme here
-define('theme_author', "IceMan, SourceBans++ Dev Team, Edited by STEAM_0:0:25900187");
+define('theme_author', "IceMan, SourceBans++ Dev Team, Edited by STEAM_0:0:25900187, DNA.styx");
 
 // Set the version of the theme here
-define('theme_version', "1.5.5-dev (Edited)");
+define('theme_version', "1.1.1");
 
 // Set the link of the theme here
-define('theme_link', "https://nmng.uk/sbpp");
+define('theme_link', "https://github.com/DNA-styx/SBPP-Night-Theme");
 
 // Set the screenshot filename for your theme (must be inside your theme folder)
 // Must be:  250px wide  X 170px High
