@@ -1,4 +1,4 @@
-# SBPP-Nigh-Theme
+# SBPP-Night-Theme
 [SourceBans++ Theme] Night [Multiple Colour Options]
 <br>
 By [TBFP](https://forums.alliedmods.net/member.php?u=344951)
