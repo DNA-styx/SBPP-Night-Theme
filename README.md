@@ -9,8 +9,19 @@
 <br>
 By [TBFP](https://forums.alliedmods.net/member.php?u=344951)
 <br>
-- v1.1 relased here: https://forums.alliedmods.net/showthread.php?t=344513
-- v1.1.1 includes all <a href="https://github.com/sbpp/sourcebans-pp/commits/php81/web">upstream fixes from the default theme</a> to 16 NOV 2024
+- v1.1 for SourceBans++ <= v1.8.0 only relased here: https://forums.alliedmods.net/showthread.php?t=344513
+- v1.1.1 for SourceBans++ >= v1.8.1 includes all <a href="https://github.com/sbpp/sourcebans-pp/commits/php81/web">upstream fixes from the default theme</a> to 16 NOV 2024
+
+# Demo sites
+
+- <a href="https://sbpp-night-theme-blue.dnagames.site">Blue</a>
+- <a href="https://sbpp-night-theme-green.dnagames.site">Green</a>
+- <a href="https://sbpp-night-theme-purple.dnagames.site">Purple</a>
+- <a href="https://sbpp-night-theme-red.dnagames.site">Red</a>
+<br>
+
+[<img alt="Deployed with FTP Deploy Action" src="https://img.shields.io/badge/Deployed With-FTP DEPLOY ACTION-%3CCOLOR%3E?style=for-the-badge&color=0077b6">](https://github.com/SamKirkland/FTP-Deploy-Action)
+
 # Screenshots
 Blue
 <img src="https://raw.githubusercontent.com/DNA-styx/SBPP-Night-Theme/refs/heads/main/sbpp_night_blue/screenshot.png">
