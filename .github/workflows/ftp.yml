@@ -1,0 +1,21 @@
+on: [workflow_dispatch]
+name: 🚀 Deploy website
+jobs:
+  web-deploy:
+    name: 🎉 Deploy
+    runs-on: ubuntu-latest
+    steps:
+    - name: 🚚 Get latest code
+      uses: actions/checkout@v4
+    
+    - name: 📂 Sync files
+      uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+      with:
+        server: ${{ secrets.ftp_server }}
+        username: ${{ secrets.ftp_username }}
+        password: ${{ secrets.ftp_password }}
+        timeout: 30000
+        local-dir: ./sbpp_night_blue/
+        server-dir: /sbpp-night-theme-blue.dnagames.site/themes/default/
+        dangerous-clean-slate: true
+        dry-run: true
