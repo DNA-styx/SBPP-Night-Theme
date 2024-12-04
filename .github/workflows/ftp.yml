@@ -8,7 +8,7 @@ jobs:
     - name: 🚚 Get latest code
       uses: actions/checkout@v4
     
-    - name: 📂 Sync files
+    - name: 📂 Sync files - Blue
       uses: SamKirkland/FTP-Deploy-Action@v4.3.5
       with:
         server: ${{ secrets.ftp_server }}
@@ -17,4 +17,14 @@ jobs:
         timeout: 30000
         local-dir: ./sbpp_night_blue/
         server-dir: /sbpp-night-theme-blue.dnagames.site/themes/default/
-        dangerous-clean-slate: true
+
+    - name: 📂 Sync files - Green
+      uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+      with:
+          server: ${{ secrets.ftp_server }}
+          username: ${{ secrets.ftp_username }}
+          password: ${{ secrets.ftp_password }}
+          timeout: 30000
+          local-dir: ./sbpp_night_green/
+          server-dir: /sbpp-night-theme-green.dnagames.site/themes/default/
+   
