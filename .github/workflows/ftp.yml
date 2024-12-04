@@ -1,5 +1,5 @@
 on: [workflow_dispatch]
-name: 🚀 Deploy website
+name: 🚀 Deploy Demo website
 jobs:
   web-deploy:
     name: 🎉 Deploy
@@ -27,4 +27,24 @@ jobs:
           timeout: 30000
           local-dir: ./sbpp_night_green/
           server-dir: /sbpp-night-theme-green.dnagames.site/themes/default/
-   
+
+    - name: 📂 Sync files - Purple
+      uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+      with:
+          server: ${{ secrets.ftp_server }}
+          username: ${{ secrets.ftp_username }}
+          password: ${{ secrets.ftp_password }}
+          timeout: 30000
+          local-dir: ./sbpp_night_purple/
+          server-dir: /sbpp-night-theme-purple.dnagames.site/themes/default/
+
+    - name: 📂 Sync files - Red
+      uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+      with:
+          server: ${{ secrets.ftp_server }}
+          username: ${{ secrets.ftp_username }}
+          password: ${{ secrets.ftp_password }}
+          timeout: 30000
+          local-dir: ./sbpp_night_red/
+          server-dir: /sbpp-night-theme-red.dnagames.site/themes/default/
+    
