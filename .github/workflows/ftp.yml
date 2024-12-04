@@ -1,4 +1,8 @@
-on: [workflow_dispatch]
+on:
+  workflow_dispatch:
+  release:
+    types: [published]
+
 name: 🚀 Deploy Demo website
 jobs:
   web-deploy:
