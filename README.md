@@ -11,7 +11,7 @@
 By [TBFP](https://forums.alliedmods.net/member.php?u=344951)
 <br>
 - v1.1 for SourceBans++ <= v1.8.0 only relased here: https://forums.alliedmods.net/showthread.php?t=344513
-- v1.1.1 for SourceBans++ >= v1.8.1 includes all <a href="https://github.com/sbpp/sourcebans-pp/commits/php81/web">upstream fixes from the default theme</a> to 16 NOV 2024
+- v1.1.x for SourceBans++ >= v1.8.1 includes all <a href="https://github.com/sbpp/sourcebans-pp/commits/php81/web">upstream fixes as noted
 
 # Demo sites
 - <a href="https://sbpp-night-theme-blue.dnagames.site">Blue</a>
