@@ -2,7 +2,7 @@
 	<div id="footer">
 		<div id="mainwrapper" style="text-align: center;">
 			<div id="footqversion" style="line-height: 20px;"><a style="color: #ad00ad" href="https://sbpp.github.io/" target="_blank">SourceBans++</a> {$version}{$git}</div>
-		    <span style="line-height: 20px;">Original <a href="https://github.com/DNA-styx/SBPP-Night-Theme" title="Theme Fluent for SourceBans++" target="_blank" rel="noopener">Theme</a> by <a href="https://nmng.uk/sbpp" target="_blank" style="color: #ad00ad">tuberculosis</a></span><br />
+		    <span style="line-height: 20px;">Original <a href="https://github.com/DNA-styx/SBPP-Night-Theme" title="SourceBans++ Night Theme" target="_blank" style="color: #ad00ad">Theme</a> by <a href="https://nmng.uk/sbpp" target="_blank" style="color: #ad00ad">tuberculosis</a></span><br />
 		</div>
 	</div>
 </div>
